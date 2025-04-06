@@ -7,7 +7,7 @@ const SearchBar = () => {
   const handleSearch = (e) => {
     e.preventDefault();
     console.log("Searching for:", query);
-    // You can trigger search logic here
+    
   };
 
   return (
